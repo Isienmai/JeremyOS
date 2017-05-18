@@ -1,6 +1,6 @@
 *.o
-*.img
-*.iso
+JeremyOS.img
+JeremyOS.iso
 kernel.sys
 *.bin
 *.lib
