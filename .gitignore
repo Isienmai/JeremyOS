@@ -1,2 +1,6 @@
 *.o
 *.img
+*.iso
+kernel.sys
+*.bin
+*.lib
